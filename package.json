@@ -3,7 +3,7 @@
   "description": "Logstash implementation in node JS",
   "version": "0.0.1",
   "author": "Bertrand Paquet <bertrand.paquet@gmail.com>",
-  "keywords": ["logstash", "log", "zmq", "zeromq"],
+  "keywords": ["logstash", "log"],
   "main": "./lib/log4node.js",
   "homepage": "https://github.com/bpaquet/node-logstash",
   "repository": {
